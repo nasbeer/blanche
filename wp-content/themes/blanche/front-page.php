@@ -59,7 +59,7 @@ get_header();
                         <img src="./wp-content/uploads/2022/04/Layer-23.png" class="w-100  h-600 object-cover"
                             alt="Wintry Mountain Landscape" />
                         <a class="btn btn-link stretched-link  bg-white custom-btn-2" href="#">
-                            Shop Bed Linens
+                            Shop Bath Towels
                         </a>
                     </div>
                 </div>
@@ -69,14 +69,14 @@ get_header();
                         <img src="./wp-content/uploads/2022/04/Layer-20.png" class="w-100   h-600 object-cover"
                             alt="Mountains in the Clouds" />
                         <a class="btn btn-link stretched-link  bg-white custom-btn-3" href="#">
-                            Shop Bed Linens
+                            Shop Bath Robes
                         </a>
                     </div>
                     <div class="position-relative">
                         <img src="./wp-content/uploads/2022/04/JASMINE-copy.png" class="w-100  h-600 object-cover "
                             alt="Boat on Calm Water" />
                         <a class="btn btn-link stretched-link  bg-white custom-btn-4" href="#">
-                            Shop Bed Linens
+                            Shop Home Fragnences
                         </a>
                     </div>
                 </div>
